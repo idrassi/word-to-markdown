@@ -33,6 +33,7 @@ Thumbs.db
 test/
 *.docx
 *.zip
+!standalone/word-to-markdown.zip
 
 # Environment files
 .env
