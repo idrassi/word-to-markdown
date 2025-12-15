@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/No%20Data-Uploaded-blue" alt="No Data Uploaded">
   <img src="https://img.shields.io/badge/Works-Offline-orange" alt="Works Offline">
   <img src="https://img.shields.io/badge/License-MIT-yellow" alt="MIT License">
+  <a href="https://www.adappt.ai"><img src="https://img.shields.io/badge/Built%20by-Adappt%20AI-purple" alt="Built by Adappt AI"></a>
 </p>
 
 <p align="center">
@@ -208,9 +209,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Acknowledgments
 
+- [Adappt AI](https://www.adappt.ai) for sponsoring and building this tool
 - [Mammoth.js](https://github.com/mwilliamson/mammoth.js) for excellent Word document parsing
 - [Ollama](https://ollama.ai/) for making local LLMs accessible
-- All our [contributors](https://github.com/yourusername/word-to-markdown/graphs/contributors)
+- All our [contributors](https://github.com/NoWayJA/word-to-markdown/graphs/contributors)
 
 ## GitHub Topics
 
@@ -237,4 +239,8 @@ This tool is useful for people searching for:
 
 <p align="center">
   Made with ❤️ for the privacy-conscious open source community
+</p>
+
+<p align="center">
+  <sub>Sponsored by <a href="https://www.adappt.ai">Adappt AI - Custom Software & AI Development</a></sub>
 </p>
